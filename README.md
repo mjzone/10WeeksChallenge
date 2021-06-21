@@ -16,3 +16,6 @@
 ### Week 08 - Learn ReactJS: https://www.youtube.com/watch?v=Ke90Tje7VS0
 ### Week 09 - Learn to Build a FullStack Web App: https://www.youtube.com/watch?v=mrHNSanmqQ4
 ### Week 10 - Learn AWS Cloud Platform: https://www.youtube.com/watch?v=ulprqHHWlng
+
+## Commitment  
+- 2 hours per day
